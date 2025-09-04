@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+select, button {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#outputText {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 50px;
+}
